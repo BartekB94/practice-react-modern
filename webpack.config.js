@@ -1,9 +1,9 @@
-const taskNumber = "01";
+const taskNumber = '02';
 // numer przerabianego zadania
 
-const path = require("path");
+const path = require('path');
 // importuję bibliotękę [path] z [node.js]
-const HtmlWebpackPlugin = require("html-webpack-plugin");
+const HtmlWebpackPlugin = require('html-webpack-plugin');
 const ESLintPlugin = require('eslint-webpack-plugin');
 // importuję odpowiedni plugin
 module.exports = {
