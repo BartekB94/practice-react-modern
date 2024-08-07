@@ -3,7 +3,7 @@ import { createRoot } from 'react-dom/client';
 
 import ContactForm from './ContactForm';
 
-const App = () => {
+function App() {
     return <ContactForm />;
 };
 
